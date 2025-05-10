@@ -1,12 +1,11 @@
-# SQT_BIO_MICRONEEDLING Canada - Ios App
-SQT BIO-MICRONEEDLING
-Welcome to the official Swift iOS app for **SQT Biomicroneedling Canada**. 
-This app provides clinics, clients, and beauty professionals with access to cutting-edge skincare products, 
-training, and ordering tools designed for the future of microneedling.
+# SQT Canada - iOS App
+Welcome to the official Swift iOS app for SQT BIO-MICRONEEDLING Canada
+- **This app provides clinics, clients, and beauty professionals with access to cutting-edge skincare products, 
+training, and ordering tools designed for the future of microneedling.**
 # Features
 - **User Authentication** – Secure login for customers and clinics
 - **Product Catalog** – Browse the full range of SQT products
-- **Shopping Cart & Checkout** – Order products directly from the app
+- **Shopping Cart & CheckoutSystem** – Order products directly from the app
 - **Training SignIn** – Learn more about SQT Bio Microneedling procedures
 - **Social Media Integration** – Social Media Integration to follow and share SQT content directly from the app
 - **Contact & Support** – Connect with SQT Canada support team
@@ -14,11 +13,11 @@ training, and ordering tools designed for the future of microneedling.
 
 ## Screenshots
 ### Home Screen
-<img width="175" alt="Screenshot 2025-05-09 at 6 47 34 PM" src="https://github.com/user-attachments/assets/dcedf3c5-55a9-4dab-8075-2ee7ca3c903e" />
-<img width="175" alt="Screenshot 2025-05-09 at 6 47 47 PM" src="https://github.com/user-attachments/assets/1cf33d28-f880-4737-913e-f081860aca99" />
-<img width="175" alt="Screenshot 2025-05-09 at 6 49 40 PM" src="https://github.com/user-attachments/assets/81eaf114-524d-4a1b-8195-bf532bd3f863" />
-<img width="175" alt="Screenshot 2025-05-09 at 6 49 59 PM" src="https://github.com/user-attachments/assets/d066ca84-4a1b-4db0-ae89-0b42c179e625" />
-<img width="175" alt="Screenshot 2025-05-09 at 6 51 09 PM" src="https://github.com/user-attachments/assets/3164f52e-15dd-403a-adb4-34708b6577c4" />
+<img width="190" alt="Screenshot 2025-05-09 at 6 47 34 PM" src="https://github.com/user-attachments/assets/dcedf3c5-55a9-4dab-8075-2ee7ca3c903e" />
+<img width="190" alt="Screenshot 2025-05-09 at 6 47 47 PM" src="https://github.com/user-attachments/assets/1cf33d28-f880-4737-913e-f081860aca99" />
+<img width="198" alt="Screenshot 2025-05-09 at 6 49 40 PM" src="https://github.com/user-attachments/assets/81eaf114-524d-4a1b-8195-bf532bd3f863" />
+<img width="196" alt="Screenshot 2025-05-09 at 6 49 59 PM" src="https://github.com/user-attachments/assets/d066ca84-4a1b-4db0-ae89-0b42c179e625" />
+<img width="183" alt="Screenshot 2025-05-09 at 6 51 09 PM" src="https://github.com/user-attachments/assets/3164f52e-15dd-403a-adb4-34708b6577c4" />
 
 
 ## Technologies Used
